@@ -11,14 +11,14 @@ body {
     padding: 0;
     background-color: #f4f4f4;
     color: #333;
-    background-image: url('../img/background.jpg'); /* Replace with your image path */
+    background-image: url('../img/000013.JPG'); /* Replace with your image path */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 header {
-    background-color: rgb(94, 14, 14);
+    background-color: burlywood;
     color: white;
     padding: 1rem;
     text-align: center;
@@ -95,7 +95,7 @@ main {
 }
 
 footer {
-    background-color: rgb(94, 14, 14);
+    background-color: burlywood;
     color: white;
     text-align: center;
     padding: 1rem;
